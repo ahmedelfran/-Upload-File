@@ -1,4 +1,4 @@
-# -Upload-File
+# Upload-File
 
 ### Drag and drop file uploading
 
